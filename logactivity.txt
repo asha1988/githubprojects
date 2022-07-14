@@ -1,0 +1,6 @@
+Drank water at:2022-07-14 12:55:07.975250 
+Eyes Exercise done at:2022-07-14 12:55:12.145385 
+Physical Exercise done at:2022-07-14 12:55:16.350912 
+Drank water at:2022-07-14 12:55:19.149125 
+Eyes Exercise done at:2022-07-14 12:55:23.075658 
+Drank water at:2022-07-14 12:55:26.205424 
