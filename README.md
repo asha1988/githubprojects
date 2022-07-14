@@ -18,6 +18,3 @@ The task is to create online Library management system. 2. For this I will creat
 
 For the software developers who works for 8 to 9 hours day,it is important for them to be fit.so it is necessary that we need to remind them 3 things >Drink 3.5 liters of water >Do eye exercise after every hour. >Physical activity after 45mins. For this I play MP3 music until Developer presses input from given options like >For water user should enter Drank >For Eye exercise user should enter Eyeexdone >For Physical activity user should enter Phyexdone  After user inputs option then that particular task is logged in separate file. I have used pygame module to play audio.
 
-4)Indian Railway announcement system :
-
-For creating this I used PyAudio,Pydub modules and gTTs to process audio and get announcing status of various trains. I used PyAudio module to play and record audio on various platforms. I used Pydub module for audio manipulation. I used gtts tool to interface with GoogleTranslate Text- to-speech API.
