@@ -24,9 +24,9 @@ if __name__ == '__main__':
       water_init=time()
       eyes_init=time()
       exec_init=time()
-      watersecs=4
-      eyessecs=6
-      phyexesecs=10
+      watersecs=40*60
+      eyessecs=30*60
+      phyexesecs=45*60
       while(True):
          if time() - water_init > watersecs:
              print("It is water drinking time,Enter stop to end the music or press quit to end the process\n")
