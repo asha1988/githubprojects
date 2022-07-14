@@ -17,7 +17,7 @@ def music_on_loop(file,stopper):
         else:
             exit()
 def log_now(msg):
-        with open("log.txt", "a") as f:
+        with open("logactivity.txt", "a") as f:
            f.write(f"{msg}{datetime.now()} \n")
 
 if __name__ == '__main__':
